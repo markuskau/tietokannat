@@ -2,6 +2,6 @@ Yhteentauluun kohdistuvien kyselyiden harjoitukset.md
 
 Tehtävä 1
 select * from goal;
-![ruudunkaappaus](Näyttökuva(1).png
+![ruudunkaappaus](Näyttökuva(1)).png
 
 Tehtävä 2
